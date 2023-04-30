@@ -1,0 +1,2 @@
+- 과제 및 시험 레포입니다.
+- (Term project는 여기: Github 잔디 심기 커뮤니티)[https://github.com/Zion-min/Rankinghub]
