@@ -1,2 +1,2 @@
-- hw1: (나만의 ptrace로 system call 모니터링하기)[https://blog.naver.com/sioniasak/223089739568]
+- hw1: [나만의 ptrace로 system call 모니터링하기](https://blog.naver.com/sioniasak/223089739568)
 - hw2: hello라는 샘플 시스템 콜과, 문자열을 인코딩, 디코딩하는 시스템 콜까지 총 3개의 시스템 콜을 추가하고 리눅스 컴파일하기 
